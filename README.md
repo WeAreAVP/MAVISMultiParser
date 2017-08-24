@@ -12,7 +12,7 @@ Built for AFC, custom, by AVPreserve
 * MAVIS MultiCarrier Parser dist folder
 
 #### Instructions
-1. Unzip and copy the MAVIS MultiCarrier Parser zip file onto your desktop (or preferred location of your choice)
+1. Unzip and copy the [MAVIS MultiCarrier Parser zip file](https://github.com/avpreserve/MAVISMultiParser/blob/master/MAVIS-MultiCarrier-Parser.zip) onto your desktop (or preferred location of your choice)
 2. Open CMD (Command Prompt) on your Windows machine
 3. Navigate to the dist folder within the MAVIS MultiCarrier Parser folder
 4. Initiate the validator with this command: java -jar Mavis.jar
